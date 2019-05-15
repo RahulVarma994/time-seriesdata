@@ -1,0 +1,223 @@
+name,id,money,balance,walletbalance,due,numberoforders,shipped,cusreview,product,dateofpurchase
+Shwe lar ,9793102371,1000,5,100,120,2|3|1|4,1,0,food,04/05/18 11:14
+Test Test,123,500,1,1,500,2,1,-90,test,11/04/18 13:08
+test5,123456789,100,1,1,200,1,1,-180,KFC1,22/04/18 9:52
+Test Man,13256,100,1,1,100,2,3,0,,11/04/18 13:28
+Opera,143,12,1,1,12,2,1,0,xyz,11/04/18 13:43
+l5,2545425,140,120,12,14,2|3|1,1,0,ex,04/10/18 19:06
+siva,322453,200,400,45,200,1|2|3|4,1,0,,15/04/18 18:05
+Test1,456879,20,2,2,20,1|3,1,0,,11/04/18 13:28
+test_session1,66569599,1,1,1,2,3,1,0,abc,07/12/18 17:56
+Test ,753,10,1,1,10,2,3,0,abc,11/04/18 17:09
+ghjghjgjhgjhgjgj,7865786,45454,4,46465,56465,2,1,0,,26/04/18 14:38
+testd,786999999,100,1,1,100,2,1,0,hh,25/04/18 16:29
+testval,90909090,100,1,1,100,2,1,0,,24/04/18 12:53
+ Koung Mon ,9253128144,1000,10,100,120,3|1|4,3,0, Koung Mon ,30/08/18 16:07
+ABC Outlet 054,9253128148,1000,5,100,120,2|1|4,3,0,Active Business Consolidation Co. Ltd (ABC),12/10/18 16:54
+Emre,9253140740,100,1,5,100,1|2|3|4,1,0,,22/04/18 11:16
+abc,951,12,1,1,12,2|4,1,0,abc,12/04/18 18:27
+Waiyan1,951250596,100,70,100,105,2|3|1|4,1,0,MPT,06/05/18 16:04
+Merchant2,9591279369,200,1,1,300,2,1,0,abc,05/04/18 18:36
+WYINSEIN,9.5925E+11,100,70,100,105,2|3|1|4,1,0,MPT,06/05/18 16:17
+WaiYanKabarAye,9.59253E+11,1000,5,100,105,2|3|1|4,1,108666,WaiyanElectronics,09/05/18 11:04
+WaiYan Insein,9.59253E+11,1000,7,100,105,2|3|1|4,1,0,WaiYan Electronics,09/05/18 17:13
+WaiYan Pansodan,9.59253E+11,1000,5,100,105,2|3|1|4,1,17248,WaiYanElectronics,10/05/18 8:56
+WaiYan SouthDagon,9.59253E+11,1000,7,100,105,2|3|1|4,3,307389,WaiyanElectronics,10/05/18 9:02
+WaiYan BoAungKyaw,9.59253E+11,1000,5,100,105,2|3|1|4,1,26096,WaiyanElectronics,10/05/18 9:06
+WaiYan MyanmarPlaza,9.59253E+11,1000,5,100,105,2|3|1|4,1,42878,WaiyanElectronics,10/05/18 9:21
+WaiYan Tower,9.59253E+11,1000,5,100,105,2|3|1|4,1,18011,WaiYanElectronics,10/05/18 9:25
+WaiYan Mingalar,9.59253E+11,1000,5,100,105,2|3|1|4,1,256,WaiyanElectronics,10/05/18 9:27
+WaiYan Mkt,9.59253E+11,1000,5,100,105,2|3|1|4,1,930,WaiyanElectronics,10/05/18 9:34
+WaiYan NayPyiDaw,9.59253E+11,1000,5,100,105,2|3|1|4,1,1575,WaiyanElectronics,09/05/18 8:19
+WaiYan TaungGyi,9.59253E+11,1000,5,100,105,2|3|1|4,1,39122,WaiYanElectronics,10/05/18 9:45
+WaiYan Bago,9.59253E+11,1000,5,100,105,2|3|1|4,1,4086,WaiyanElectronics,10/05/18 9:49
+Shwelar Narnattaw,9.59253E+11,100,1,100,120,2|3|1|4,1,10294,WaiyanElectronics,10/05/18 9:59
+Shwelar Nawaday,9.59253E+11,100,1,100,120,2|3|1|4,1,0,ShwelarHotPot,10/05/18 10:02
+Shwelar Mayangone,9.59253E+11,100,1,100,120,2|3|1|4,1,1787,ShwelarHotpot,10/05/18 10:09
+Shwelar Shinsawpuward,9.59253E+11,100,1,100,120,2|3|1|4,1,117,ShweLarHotPot,10/05/18 10:13
+Shwelar NorthDagon,9.59253E+11,100,1,100,120,2|3|1|4,1,922,ShwelarHotPot,10/05/18 10:15
+Shwelar Hlaingtharyar,9.59253E+11,100,1,100,120,2|3|1|4,1,2923,ShwelarHotPot,10/05/18 10:20
+Shwelar Lanmadaw,9.59253E+11,100,1,100,120,2|3|1|4,1,4492,ShweLarHotPot,10/05/18 10:22
+Shwelar Pazundaung,9.59253E+11,100,1,100,120,2|3|1|4,1,0,Shwelarhotpot,10/05/18 10:26
+Shwelar 6.5mile,9.59253E+11,100,1,100,120,2|3|1|4,1,5065,ShwelarHotpot,10/05/18 10:30
+WaiYan Insein1,9.59253E+11,1000,7,100,105,2|3|1|4,1,1000,WaiyanElectronics,10/05/18 11:57
+Shwelar Pazundaung1,9.59253E+11,100,1,100,120,2|3|1|4,1,0,ShwelarHotpot,10/05/18 12:34
+ShwelarPazundaung,9.59253E+11,100,1,100,120,2|3|1|4,1,0,ShwelarHotpot,10/05/18 12:48
+KhaingKhaingKyaw Parami,9.59253E+11,1000,8,100,120,2|3|1|4,1,0,KhaingKhaingKyaw,14/05/18 14:07
+KhaingKhaingKyaw Shwepyithar,9.59253E+11,1000,8,100,120,2|1|4,1,24616,KhaingKhaingKyaw,14/05/18 15:49
+KhaingKhaingKyaw Mingalardon,9.59253E+11,1000,8,100,120,2|1|4,1,43579,KhaingKhaingKyaw,14/05/18 15:37
+ShwelarPazundaung1,9.59253E+11,100,1,100,120,2|3|1|4,1,3976,ShwelarHotPot,25/05/18 11:50
+WaiYanSouthDagon,9.59253E+11,1000,5,100,105,2|3|1|4,1,51515,WaiYanElectronics,25/05/18 11:50
+ABC Outlet 002,9.59253E+11,1000,5,100,120,2|1|4,1,420,Active Business Consolidation Co. Ltd (ABC),25/05/18 12:09
+ABC Outlet 003,9.59253E+11,1000,5,100,120,2|1|4,1,1559,Active Business Consolidation Co. Ltd (ABC),25/05/18 12:46
+ABC Outlet 005,9.59253E+11,1000,5,100,120,2|1|4,1,7190,Active Business Consolidation Co. Ltd (ABC),25/05/18 12:51
+ABC Outlet 006,9.59253E+11,1000,5,100,120,2|1|4,1,3096,Active Business Consolidation Co. Ltd (ABC),25/05/18 12:56
+ABC Outlet 010,9.59253E+11,1000,5,100,120,2|1|4,1,2940,Active Business Consolidation Co. Ltd (ABC),25/05/18 13:01
+ABC Outlet 011,9.59253E+11,1000,5,100,120,2|1|4,1,2476,Active Business Consolidation Co. Ltd (ABC),25/05/18 13:05
+ABC Outlet 015,9.59253E+11,1000,5,100,120,2|1|4,1,2487,Active Business Consolidation Co. Ltd (ABC),25/05/18 13:22
+ABC Outlet 017,9.59253E+11,1000,5,100,120,2|1|4,1,3387,Active Business Consolidation Co. Ltd (ABC),25/05/18 13:36
+ABC Outlet 004,9.59253E+11,1000,5,100,120,2|1|4,1,1995,Active Business Consolidation Co. Ltd (ABC),28/05/18 12:29
+Hong Kong,9.59253E+11,1000,7,100,120,2|1|4,1,999993,Hong Kong Mobile,24/09/18 11:40
+MaxEnergyAlone,9.59253E+11,1000,5,100,110,2|3|1|4,1,985,MaxEnergy,03/10/18 17:00
+Koung Mon,9.59253E+11,100,1,100,120,2|1|4,1,463265,Koung Mon,30/08/18 16:21
+Hin Thar Yin Kwin,9.59253E+11,1000,10,100,120,2|1|4,1,100000,Hin Thar Yin Kwin,27/11/18 11:31
+rgo47,9.59253E+11,1000,8,100,120,2|3|1|4,1,24127,rgo47,28/06/18 17:15
+ABCOutlet 054,9.59253E+11,1000,5,100,120,2|1|4,1,982,Active Business Consolidation Co. Ltd (ABC),12/10/18 17:02
+ABC Outlet 009,9.59253E+11,1000,5,100,120,2|1|4,1,1779,Active Business Consolidation Co. Ltd (ABC),12/10/18 17:10
+ABC Outlet 052,9.59253E+11,1000,5,100,120,2|1|4,1,3000,Active Business Consolidation Co. Ltd (ABC),12/10/18 17:14
+ABC Outlet 066,9.59253E+11,1000,5,100,120,2|1|4,1,2000,Active Business Consolidation Co. Ltd,20/11/18 8:47
+Junction City,9.59253E+11,1000,5,100,120,2|4,1,499400,Junction Group,07/06/18 18:36
+Junction Mawtin 1,9.59253E+11,1000,5,100,120,2|1|4,1,0,Junction Group,07/06/18 13:28
+Junction Square,9.59253E+11,1000,5,100,120,2|4,1,499800,Junction Group ,07/06/18 18:20
+Junction 8 miles 1,9.59253E+11,1000,5,100,120,1|4,1,0,Junction Group,07/06/18 18:09
+JunctionNay Pyi Taw,9.59253E+11,1000,5,100,120,1|4,1,0,Junction Group ,07/06/18 12:43
+Junction Zawana,9.59253E+11,1000,5,100,120,1|4,1,0,Junction Group,07/06/18 18:12
+ABC Outlet 062,9.59253E+11,1000,5,100,120,2|1|4,1,2222,Active Business Consolidation Co. Ltd (ABC),25/05/18 19:48
+ABC Outlet 061,9.59253E+11,1000,5,100,120,2|1|4,1,4755,Active Business Consolidation Co. Ltd (ABC),25/05/18 19:38
+ABC Outlet 080,9.59253E+11,1000,5,100,120,2|1|4,1,8039,Active Business Consolidation Co. Ltd (ABC),25/05/18 21:39
+ABC Outlet 079,9.59253E+11,1000,5,100,120,2|1|4,1,6856,Active Business Consolidation Co. Ltd (ABC),25/05/18 21:30
+ABC Outlet 078,9.59253E+11,1000,5,100,120,2|1|4,1,3568,Active Business Consolidation Co. Ltd (ABC),25/05/18 21:26
+ABC Outlet 077,9.59253E+11,1000,5,100,120,2|1|4,1,6435,Active Business Consolidation Co. Ltd (ABC),25/05/18 21:17
+ABC Outlet 076,9.59253E+11,1000,5,100,120,2|1|4,1,4854,Active Business Consolidation Co. Ltd (ABC),25/05/18 21:13
+ABC Outlet 075,9.59253E+11,1000,5,100,120,2|1|4,1,3180,Active Business Consolidation Co. Ltd (ABC),25/05/18 21:07
+ABC Outlet 074,9.59253E+11,1000,5,100,120,2|1|4,1,3687,Active Business Consolidation Co. Ltd (ABC),25/05/18 21:00
+ABC Outlet 073,9.59253E+11,1000,5,100,120,2|1|4,1,8184,Active Business Consolidation Co. Ltd (ABC),25/05/18 20:56
+ABC Outlet 072,9.59253E+11,1000,5,100,120,2|1|4,1,4155,Active Business Consolidation Co. Ltd (ABC),25/05/18 20:50
+ABC Outlet 071,9.59253E+11,1000,5,100,120,2|1|4,1,9221,Active Business Consolidation Co. Ltd (ABC),25/05/18 20:43
+ABC Outlet 070,9.59253E+11,1000,5,100,120,2|1|4,1,6678,Active Business Consolidation Co. Ltd (ABC),25/05/18 20:35
+ABC Outlet 069,9.59253E+11,1000,5,100,120,2|3|1|4,1,3439,Active Business Consolidation Co. Ltd (ABC),25/05/18 20:29
+ABC Outlet 068,9.59253E+11,1000,5,100,120,2|1|4,1,10751,Active Business Consolidation Co. Ltd (ABC),25/05/18 20:23
+ABC Outlet 067,9.59253E+11,1000,5,100,120,2|1|4,1,4458,Active Business Consolidation Co. Ltd (ABC),25/05/18 20:18
+ABC Outlet 065,9.59253E+11,1000,5,100,120,2|1|4,1,1715,Active Business Consolidation Co. Ltd (ABC),25/05/18 20:12
+ABC Outlet 064,9.59253E+11,1000,5,100,120,2|1|4,1,4638,Active Business Consolidation Co. Ltd (ABC),25/05/18 20:03
+ABC Outlet 063,9.59253E+11,1000,5,100,120,2|1|4,1,1734,Active Business Consolidation Co. Ltd (ABC),25/05/18 19:56
+ABC Outlet 021,9.59253E+11,1000,5,100,120,2|1|4,1,5768,Active Business Consolidation Co. Ltd (ABC),25/05/18 13:58
+ABC Outlet 034,9.59253E+11,1000,5,100,120,2|1|4,1,3745,Active Business Consolidation Co. Ltd (ABC),25/05/18 15:17
+ABC Outlet 34,9.59253E+11,1000,5,100,120,2|3|1|4,3,0,Active Business Consolidation Co. Ltd (ABC),25/05/18 15:11
+ABC Outlet 033,9.59253E+11,1000,5,100,120,2|1|4,1,4280,Active Business Consolidation Co. Ltd (ABC),25/05/18 15:06
+ABC Outlet 032,9.59253E+11,1000,5,100,120,2|1|4,1,4951,Active Business Consolidation Co. Ltd (ABC),25/05/18 15:00
+ABC Outlet 031,9.59253E+11,1000,5,100,120,2|1|4,1,7875,Active Business Consolidation Co. Ltd (ABC),25/05/18 14:57
+ABC Outlet 030,9.59253E+11,1000,5,100,120,2|1|4,1,6842,Active Business Consolidation Co. Ltd (ABC),25/05/18 14:52
+ABC Outlet 001,9.59253E+11,1000,5,100,120,2|1|4,1,4823,Active Business Consolidation Co. Ltd (ABC),25/05/18 10:57
+ABC Outlet 007,9.59253E+11,1000,5,100,120,2|1|4,1,965,Active Business Consolidation Co. Ltd (ABC),25/05/18 11:46
+ABC Outlet 008,9.59253E+11,1000,5,100,120,2|1|4,1,3739,Active Business Consolidation Co. Ltd (ABC),25/05/18 11:52
+ABC Outlet 012,9.59253E+11,1000,5,100,120,2|1|4,1,2108,Active Business Consolidation Co. Ltd (ABC),25/05/18 12:02
+ABC Outlet 013,9.59253E+11,1000,5,100,120,2|1|4,1,4308,Active Business Consolidation Co. Ltd (ABC),25/05/18 13:12
+ABC Outlet 014,9.59253E+11,1000,5,100,120,2|1|4,1,17392,Active Business Consolidation Co. Ltd (ABC),25/05/18 13:16
+ABC Outlet 016,9.59253E+11,1000,5,100,120,2|1|4,1,3391,Active Business Consolidation Co. Ltd (ABC),25/05/18 13:27
+ABC Outlet 018,9.59253E+11,1000,5,100,120,2|1|4,1,5422,Active Business Consolidation Co. Ltd (ABC),25/05/18 13:39
+ABC Outlet 019,9.59253E+11,1000,5,100,120,2|1|4,1,5803,Active Business Consolidation Co. Ltd (ABC),25/05/18 13:44
+ABC Outlet 020,9.59253E+11,1000,5,100,120,2|1|4,1,0,Active Business Consolidation Co. Ltd (ABC),25/05/18 13:46
+ABCOutlet 020,9.59253E+11,1000,5,100,120,2|1|4,1,2510,Active Business Consolidation Co. Ltd (ABC),25/05/18 13:53
+ABC Outlet 029,9.59253E+11,1000,5,100,120,2|1|4,1,5492,Active Business Consolidation Co. Ltd (ABC),25/05/18 14:47
+ABC Outlet 028,9.59253E+11,1000,5,100,120,2|1|4,1,5575,Active Business Consolidation Co. Ltd (ABC),25/05/18 14:42
+ABC Outlet 027,9.59253E+11,1000,5,100,120,2|1|4,1,2831,Active Business Consolidation Co. Ltd (ABC),25/05/18 14:38
+ABC Outlet 026,9.59253E+11,1000,5,100,120,2|1|4,1,2919,Active Business Consolidation Co. Ltd (ABC),25/05/18 14:34
+ABC Outlet 025,9.59253E+11,1000,5,100,120,2|1|4,1,9010,Active Business Consolidation Co. Ltd (ABC),25/05/18 14:27
+ABC Outlet 024,9.59253E+11,1000,5,100,120,2|1|4,1,5323,Active Business Consolidation Co. Ltd (ABC),25/05/18 14:22
+ABC Outlet 023,9.59253E+11,1000,5,100,120,2|1|4,1,5555,Active Business Consolidation Co. Ltd (ABC),25/05/18 14:11
+ABC Outlet 022,9.59253E+11,1000,5,100,120,2|1|4,1,4989,Active Business Consolidation Co. Ltd (ABC),25/05/18 14:02
+ABC Outlet 087,9.59253E+11,1000,5,100,120,2|1|4,1,2230,Active Business Consolidation Co. Ltd (ABC),25/05/18 22:25
+ABC Outlet 086,9.59253E+11,1000,5,100,120,2|1|4,1,369,Active Business Consolidation Co. Ltd (ABC),25/05/18 22:18
+ABC Outlet 085,9.59253E+11,1000,5,100,120,2|1|4,1,3332,Active Business Consolidation Co. Ltd (ABC),25/05/18 22:13
+ABC Outlet 084,9.59253E+11,1000,5,100,120,2|1|4,1,3527,Active Business Consolidation Co. Ltd (ABC),25/05/18 22:07
+ABC Outlet 083,9.59253E+11,1000,5,100,120,2|1|4,1,842,Active Business Consolidation Co. Ltd (ABC),25/05/18 22:01
+ABC Outlet 082,9.59253E+11,1000,5,100,120,2|1|4,1,3284,Active Business Consolidation Co. Ltd (ABC),25/05/18 21:53
+ABC Outlet 081,9.59253E+11,1000,5,100,120,2|1|4,1,6169,Active Business Consolidation Co. Ltd (ABC),25/05/18 21:48
+ABC Outlet 060,9.59253E+11,1000,5,100,120,2|1|4,1,3850,Active Business Consolidation Co. Ltd (ABC),25/05/18 17:24
+ABC Outlet 059,9.59253E+11,1000,5,100,120,2|1|4,1,3335,Active Business Consolidation Co. Ltd (ABC),25/05/18 17:19
+ABC Outlet 058,9.59253E+11,1000,5,100,120,2|1|4,1,6245,Active Business Consolidation Co. Ltd (ABC),25/05/18 17:14
+ABC Outlet 057,9.59253E+11,1000,5,100,120,2|1|4,1,1810,Active Business Consolidation Co. Ltd (ABC),25/05/18 17:08
+ABC Outlet 056,9.59253E+11,1000,5,100,120,2|1|4,1,5063,Active Business Consolidation Co. Ltd (ABC)x,25/05/18 17:01
+ABC Outlet 055,9.59253E+11,1000,5,100,120,2|1|4,1,1505,Active Business Consolidation Co. Ltd (ABC),25/05/18 16:54
+ABC Outlet 051,9.59253E+11,1000,5,100,120,2|1|4,1,2047,Active Business Consolidation Co. Ltd (ABC),25/05/18 16:44
+ABC Outlet 050,9.59253E+11,1000,5,100,120,2|1|4,1,6631,Active Business Consolidation Co. Ltd (ABC),25/05/18 16:39
+Junction Mawtin,9.59253E+11,1000,5,100,120,1|4,3,0,Junction Group,07/06/18 13:22
+ABC Outlet 049,9.59253E+11,1000,5,100,120,2|1|4,1,5044,Active Business Consolidation Co. Ltd (ABC),25/05/18 16:32
+ABC Outlet 047,9.59253E+11,1000,5,100,120,2|1|4,1,7570,Active Business Consolidation Co. Ltd (ABC),25/05/18 16:27
+ABC Outlet 045,9.59253E+11,1000,5,100,120,2|1|4,1,6590,Active Business Consolidation Co. Ltd (ABC),25/05/18 16:20
+ABC Outlet 044 ,9.59253E+11,1000,5,100,120,2|1|4,1,6498,Active Business Consolidation Co. Ltd (ABC),25/05/18 16:15
+ABC Outlet 043,9.59253E+11,1000,5,100,120,2|1|4,1,7296,Active Business Consolidation Co. Ltd (ABC),25/05/18 16:10
+ABC Outlet 042,9.59253E+11,1000,5,100,120,2|1|4,1,5522,Active Business Consolidation Co. Ltd (ABC),25/05/18 16:03
+ABC Outlet 041,9.59253E+11,1000,5,100,120,2|1|4,1,8789,Active Business Consolidation Co. Ltd (ABC),25/05/18 15:58
+ABC Outlet 040,9.59253E+11,1000,5,100,120,2|1|4,1,1620,Active Business Consolidation Co. Ltd (ABC),25/05/18 15:52
+ABC Outlet 039,9.59253E+11,1000,5,100,120,2|1|4,1,4650,Active Business Consolidation Co. Ltd (ABC),25/05/18 15:46
+ABC Outlet 038,9.59253E+11,1000,5,100,120,2|1|4,1,1934,Active Business Consolidation Co. Ltd (ABC),25/05/18 15:40
+ABC Outlet 037,9.59253E+11,1000,5,100,120,2|1|4,1,7220,Active Business Consolidation Co. Ltd (ABC),25/05/18 15:33
+ABC Outlet 036,9.59253E+11,1000,5,100,120,2|1|4,1,4474,Active Business Consolidation Co. Ltd (ABC),25/05/18 15:29
+ABC Outlet 035,9.59253E+11,1000,5,100,120,2|1|4,1,3575,Active Business Consolidation Co. Ltd (ABC),25/05/18 15:26
+KhaingKhaingKyaw Parami1,9.59253E+11,1000,8,100,120,2|1|4,1,20,KhaingKhaingKyaw,14/05/18 15:28
+KhaingKhaingKyaw Mayangone,9.59253E+11,1000,8,100,120,2|1|4,1,26895,KhaingKhaingKyaw,14/05/18 15:35
+WaiyanInsein,9.59253E+11,1000,5,100,105,2|3|1|4,1,28053,WaiYanEletronics,14/05/18 14:27
+ShwelarNawaday,9.59253E+11,100,1,100,120,2|3|1|4,1,83,ShwelarHotPot,14/05/18 14:59
+KhaingKhaingKyaw Kyouttadar,9.59253E+11,1000,8,100,120,2|1|4,1,23874,KhaingKhaingKyaw,14/05/18 15:16
+Emre Akkaya,9.59253E+11,100,1,1,100,2|3|1|4,1,199,,22/04/18 10:59
+Mr. Emre Akkaya,9.59253E+11,1,100,100,1,2|3|1|4|5,1,90000,,21/05/18 0:58
+ChuNandar,9.59255E+11,100,1,100,120,2|3|1|4,1,9620,MPT,04/05/18 10:38
+Chu,9.59255E+11,100,1,1,100,2|3|1|4,1,1000000,WaiYanEle,03/05/18 12:05
+pratheep,9.59256E+11,1000,5,100,120,2|3|1|4,1,0,Test,07/06/18 17:24
+WYTOWERMDY,9.59256E+11,100,70,100,105,2|3|1|4,1,0,MPT,06/05/18 16:19
+Htin Shin,9.59257E+11,1,1,1,1,2|3|1|4|5,1,0,,08/02/19 19:11
+WYMGLMDY,9.59259E+11,100,70,100,105,2|3|1|4,1,0,MPT,06/05/18 16:20
+WYMkt1,9.59259E+12,100,70,100,105,2|3|1|4,1,0,MPT,06/05/18 16:00
+Waiyan3,9.59261E+11,100,70,100,105,2|3|1|4,1,0,MPT,06/05/18 16:06
+Junction 8Miles,9593128158,1000,5,100,120,1|4,3,0,Junction Group,07/06/18 18:00
+WYBAGO,9.594E+11,100,70,100,105,2|3|1|4,1,0,MPT,06/05/18 16:17
+shivani,9.59401E+11,200,2,6000,600,2|3|1|4|5,3,4,abc,05/04/18 18:36
+WYMktMdy,9.59403E+11,100,70,100,105,2|3|1|4,1,0,MPT,06/05/18 16:20
+TgiWaiYan,9.59404E+11,100,70,100,105,2|3|1|4,1,0,MPT,06/05/18 16:18
+ABC2,9.5942E+11,1000,5,100,120,2|3|1|4,1,0,ABC Testing Grp,04/06/18 13:23
+WYMkt ,9.59421E+11,100,70,100,105,2|3|1|4,1,0,MPT,06/05/18 15:48
+MB,9.59423E+11,1000,5,100,120,2|3|1|4,1,200,food,03/05/18 11:40
+Training BI,9.59423E+11,1000,5,100,120,2|3|1|4|5,1,20,,04/07/18 9:19
+Alibaba Express,9.59424E+11,1000,100,100,1000,2,1,0,,24/04/18 10:04
+WYMkt2,9.59428E+11,100,70,100,105,2|3|1|4,1,0,MPT,06/05/18 16:01
+diyortest,9.59429E+11,1,1,1,1,2|3|1|4|5,1,748,Test,30/10/18 9:39
+Waiyan2,95943057710,100,70,100,105,2|3|1|4,1,0,MPT,06/05/18 16:06
+ABC Training 2,9.59441E+11,1000,5,100,120,2|1|4,1,0,ABC,05/06/18 9:50
+Siva123,9.59441E+11,100,1,3,100,2|3|1|4,1,1049,SIVA,24/04/18 10:04
+ABC training 1,9.59444E+11,1000,5,100,120,2|1|4,1,0,ABC,05/06/18 9:49
+ABC5,9.59448E+11,1000,5,100,120,2|3|1|4,1,0,ABC Testing Grp,04/06/18 13:30
+ABC1,9.5945E+11,1000,5,100,120,2|3|1|4,1,0,ABC Testing grp,04/06/18 13:17
+MAX_HmawBi2,9.59451E+11,1000,5,100,110,2|1|4,1,36816,Max Energy,15/11/18 15:37
+MAX_PadaukChaung,9.59452E+11,1000,5,100,110,2|1|4,1,27137,Max Energy,15/11/18 16:49
+MAX_Thuwana,9.59452E+11,1000,5,100,110,2|1|4,1,23966,Max Energy,15/11/18 13:53
+MAX_DagonAyeyar,9.59452E+11,1000,5,100,110,2|1|4,1,10000,Max Energy,15/11/18 13:50
+MAX_AgMingalar,9.59452E+11,1000,5,100,110,2|1|4,1,81,Max Energy,15/11/18 13:12
+MAX_Bahan,9.59452E+11,1000,5,100,110,2|1|4,1,0,Max Energy,15/11/18 13:35
+Ngwe San Eain,9.59452E+11,1000,10,100,120,4|5,1,0,Ngwe San Eain,24/12/18 14:45
+TGI Bar,9.59452E+11,1000,10,100,120,4|5,1,0,TGI Bar,24/12/18 14:39
+MAX_HmawBi,9.59452E+11,1000,5,100,110,2|1|4,1,15475,Max Energy,15/11/18 15:02
+Kyal Ta Kon ,9.59452E+11,1000,10,100,120,2|1|4|5,1,0,Kyal Ta Kon ,24/12/18 15:27
+MAX_Ahlone,9.59452E+11,1000,5,100,110,2|1|4,1,85636,Max Energy,15/11/18 11:18
+MAX_Sinmalite,9.59452E+11,1000,5,100,110,2|1|4,1,7616,Max Energy,15/11/18 16:20
+MAX_Hlegu,9.59452E+11,1000,5,100,110,2|1|4,1,14950,Max Energy,15/11/18 14:47
+MAX_Oakkalar,9.59452E+11,1000,5,100,110,2|1|4,1,48353,Max Energy,15/11/18 15:54
+MAX_TheinPhyu,9.59452E+11,1000,5,100,110,2|1|4,1,604,Max Energy,15/11/18 14:13
+MAX_ShwePyiThar,9.59452E+11,1000,5,100,110,2|1|4,1,18571,Max Energy,15/11/18 16:37
+MAX_Mingalardon,9.59452E+11,1000,5,100,110,2|1|4,1,31666,Max Energy,15/11/18 16:46
+MAX_Laydaunkkan,9.59452E+11,1000,5,100,110,2|1|4,1,15816,Max Energy,15/11/18 16:33
+MAX_Tharkayta,9.59452E+11,1000,5,100,110,2|1|4,1,13418,Max Energy,15/11/18 14:54
+MAX_Tarmwe,9.59453E+11,1000,5,100,110,2|1|4,1,18273,Max Energy,15/11/18 15:16
+MAX_KyunTaw,9.59453E+11,1000,5,100,110,2|1|4,1,23256,MAx Energy,15/11/18 15:56
+ABC4,9595019734,1000,5,100,120,2|3|1|4,1,0,ABC Testing Grp,04/06/18 13:29
+ABC3,9595140944,1000,5,100,120,2|3|1|4,1,0,ABC Testing Grp,04/06/18 13:25
+vivektest1,9.596E+11,2,2,2,2,2|3|1|4|5,1,10,,04/12/18 13:14
+HtinMerchanttest,9.59811E+11,1,1,1,1,2|3|1|4|5,1,0,,09/03/19 11:51
+CDMA,9598638555,100,1,1,100,2|3|1|4,1,0,,15/06/18 0:49
+IT VAS Merchant,9.59892E+11,1,1,1,1,2|3|1|4|5,1,948,IT VAS Test,13/03/19 3:58
+COMVIVA_TEST_MERCHANT,9.59892E+11,200,2,600,6000,2|3|1|4|5,1,982,Comviva test Mercahnt,12/03/19 15:47
+TestMerchant1,9.59899E+11,1,1,1,1,2|3|1|4|5,1,0,,23/11/18 17:52
+vivek,9.599E+11,2,2,21,2,2|3|1|4|5,1,1698,,17/12/18 11:00
+Waiyan4(BAK),9.59972E+11,100,70,100,105,2|3|1|4,1,0,MPT,06/05/18 16:07
+Pavan,9611909026,1,1,2,2,2,3,0,,20/04/18 22:14
+ss,9777,100,2,2,200,1|2,1,0,qq,11/04/18 14:47
+Merchant test,987210,150,1,2,200,2|4,1,0,abc,11/04/18 13:04
+testm,987554444,100,1,1,200,2|3,1,0,,24/04/18 12:37
+vivtest2,9876375281,1,1,1,1,2|3|1|4|5,1,0,,07/12/18 17:41
+Test Merchant,9876543210,150,1,2,200,2,1,0,abc,11/04/18 13:04
+NEWMERCHANT,987655677,200,1,1,100,2|3,1,0,ac,27/04/18 11:21
+Merchant1,9876567891,200,1,1,100,1|2|3|4,1,0,abc,05/04/18 18:36
+testq,987890677,100,1,1,100,2,1,0,,26/04/18 12:53
+vivek test1,9899814174,2,2,2,2,2|3|1|4|5,3,0,,04/12/18 12:43
+test05112018,998604521,1000,100,100,100,2|3|1|4|5,3,0,Test,05/11/18 23:27
